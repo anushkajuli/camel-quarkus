@@ -6829,7 +6829,7 @@
       <dependency>
         <groupId>io.perfmark</groupId>
         <artifactId>perfmark-api</artifactId>
-        <version>0.27.0</version>
+        <version>0.27.0.redhat-00002</version>
       </dependency>
       <dependency>
         <groupId>io.projectreactor</groupId>
@@ -7195,7 +7195,7 @@
       <dependency>
         <groupId>org.graalvm.js</groupId>
         <artifactId>js-language</artifactId>
-        <version>23.1.2</version>
+        <version>23.1.2.0-3</version>
       </dependency>
       <dependency>
         <groupId>org.influxdb</groupId>
