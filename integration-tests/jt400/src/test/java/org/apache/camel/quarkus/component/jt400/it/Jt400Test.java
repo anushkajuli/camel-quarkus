@@ -40,7 +40,7 @@ public class Jt400Test {
 
     private final int MSG_LENGTH = 20;
     //tests may be executed in parallel, therefore the timeout is a little bigger in case the test has to wait for another one
-    private static final int WAIT_IN_SECONDS = 30;
+    private static final int WAIT_IN_SECONDS = 100;
 
     @BeforeAll
     public static void beforeAll() throws Exception {
